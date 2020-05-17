@@ -27,3 +27,9 @@ The game and expansions can be downloaded from archive.org:
    1. Modify `<YourGameDir>\UrbanOperations.exe` to change compatibility settings: Windows 98 mode, 16-bit color, and administrator privileges.
 
 At this point, you can run the game. The menu system will only run in 640x480 mode. Once you enter a game, the resolution will increase.
+
+To test things out, enter a Terrorist Hunt scenario in the Training mode.
+
+## Playing Online
+
+???
