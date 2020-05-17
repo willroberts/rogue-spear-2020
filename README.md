@@ -35,6 +35,14 @@ To test things out, enter a Terrorist Hunt scenario in the Training mode.
 
 ## Playing Online
 
-???
+In the Multiplayer menu, there are two submenus which still work:
 
-voobly, gameranger, dedicated, selfhosted, ???
+### Manual Join
+
+Paste IP here to join a server.
+
+### Create Game
+
+Starts a local server that you can also play on. Requires port forwarding. Won't let you start game without 2 players minimum.
+
+### Other: Voobly and Gameranger
