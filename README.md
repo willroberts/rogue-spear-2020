@@ -36,3 +36,5 @@ To test things out, enter a Terrorist Hunt scenario in the Training mode.
 ## Playing Online
 
 ???
+
+voobly, gameranger, dedicated, selfhosted, ???
