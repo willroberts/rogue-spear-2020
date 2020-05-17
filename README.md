@@ -11,5 +11,8 @@ The game and expansions can be downloaded from archive.org:
 ## Installing on Windows 10
 
 1. Get some software which can mount BIN/CUE CD images and mount the Rogue Spear disc.
-1. Copy the contents of the mounted disc to a folder on your hard drive. If this is skipped, the installer will fail with an "insufficient memory" error.
-1. Open the mounted disc and run `Setup.exe`.
+   1. Copy the contents of the mounted disc to a folder on your hard drive. If this is skipped, the installer will fail with an "insufficient memory" error.
+   1. Modify `Setup.exe` to use the `Windows XP (Service Pack 2)` compatibility mode
+   1. Run `Setup.exe`, choose and install location (we'll call it `<YourGameDir>`), and install the game.
+   1. Modify `<YourGameDir>\RogueSpear.exe` to change compatibility settings: Windows 95 mode, 16-bit color, 640x480, and administrator privileges.
+   
