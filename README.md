@@ -1,9 +1,13 @@
-# Playing Rogue Spear &amp; Urban Operations in 2020 and Beyond
+# Playing Rogue Spear and Urban Operations in 2020 and Beyond
 
 ## Obtaining the Game
 
-Rogue Spear 1.05 can be downloaded from [archive.org[(https://archive.org/details/Tom_Clancys_Rainbow_Six_Rogue_Spear_Version_2.05_Red_Storm_Entertainment_1999).
+The game and expansions can be downloaded from archive.org:
 
-Urban Operations 2.5 can also be downloaded from [archive.org](https://archive.org/details/TomClancysRainbowSixRogueSpearMissionPackUrbanOperationsUSA).
+* [Rogue Spear](https://archive.org/details/Tom_Clancys_Rainbow_Six_Rogue_Spear_Version_2.05_Red_Storm_Entertainment_1999))
+* [Urban Operations](https://archive.org/details/TomClancysRainbowSixRogueSpearMissionPackUrbanOperationsUSA)
+* [Black Thorn](https://archive.org/details/TomClancysRainbowSixRogueSpearBlackThornUSA)
 
 ## Installing on Windows 10
+
+Get some software which can mount BIN/CUE CD images and mount the Rogue Spear disc.
