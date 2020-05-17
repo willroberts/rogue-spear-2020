@@ -21,6 +21,6 @@ The game and expansions can be downloaded from archive.org:
    1. Run `RSConfig.exe`. Select your GPU and default audio device, and click OK.
    1. Open [`RogueSpearWindows10.reg`](RogueSpearWindows10.reg) in a text editor and make sure it's using the right directories. The copy in this repo assumes `C:\Rogue Spear`. You may also want to set `VideoResolution` to your desired window size.
    1. Open `regedit` and drag and drop `RogueSpearWindows10.reg` into the `HKEY_LOCAL_MACHINE` directory. One of the most important things this file does is set the value of the `FullScreen` key to `FALSE`.
-   1. Run `<YourGameDir>\RogueSpear.exe` to start the game, optionally using [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) to get a borderless window.
+   1. Run `<YourGameDir>\RogueSpear.exe` to start the game, optionally using [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) to get a borderless window. The game disc will need to be "mounted" to play the game.
 
 At this point, you can run the game. The main menu is buggy as it can only run in 640x480 mode. Once you enter a game, the resolution will adapt.
