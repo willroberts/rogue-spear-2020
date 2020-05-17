@@ -25,6 +25,7 @@ The game and expansions can be downloaded from archive.org:
    1. Mount the Urban Operations disc and copy its contents to your drive.
    1. Modify `<DiscCopy>\Setup.exe` to use `Windows 98` compatibility mode, and run it. It may take a long time to reach 100% from 99%.
    1. Modify `<YourGameDir>\UrbanOperations.exe` to change compatibility settings: Windows 98 mode, 16-bit color, and administrator privileges.
+   1. Install [patch 2.52](https://www.moddb.com/games/tom-clancys-rainbow-six-rogue-spear/downloads/rogue-spear-urban-operations-252-us-patch)
 
 At this point, you can run the game. The menu system will only run in 640x480 mode. Once you enter a game, the resolution will increase.
 
