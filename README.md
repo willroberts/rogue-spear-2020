@@ -10,4 +10,6 @@ The game and expansions can be downloaded from archive.org:
 
 ## Installing on Windows 10
 
-Get some software which can mount BIN/CUE CD images and mount the Rogue Spear disc.
+1. Get some software which can mount BIN/CUE CD images and mount the Rogue Spear disc.
+1. Copy the contents of the mounted disc to a folder on your hard drive. If this is skipped, the installer will fail with an "insufficient memory" error.
+1. Open the mounted disc and run `Setup.exe`.
