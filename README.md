@@ -17,3 +17,4 @@ The game and expansions can be downloaded from archive.org:
    1. Modify `<YourGameDir>\RogueSpear.exe` to change compatibility settings: Windows 95 mode, 16-bit color, 640x480, and administrator privileges.
    1. Open [`RogueSpearWindows10.reg`](RogueSpearWindows10.reg) in a text editor and make sure it's using the right directories. The copy in this repo assumes `C:\Rpgue Spear`.
    1. Open `regedit` and drag and drop `RogueSpearWindows10.reg` into the `HKEY_LOCAL_MACHINE` directory.
+   1. Download the latest nonexperimental release of `[DDrawCompat](https://github.com/narzoul/DDrawCompat/releases)` and place `ddraw.dll` in `<YourGameDir>`.
