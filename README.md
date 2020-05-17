@@ -1,4 +1,4 @@
-# Playing Rogue Spear and Urban Operations in 2020 and Beyond
+# Playing Rogue Spear & Urban Operations in 2020 and Beyond
 
 ## Obtaining the Game
 
