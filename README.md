@@ -20,8 +20,7 @@ The game and expansions are no longer available for sale. Instead, they can be d
 1. Download the latest nonexperimental release of [`DDrawCompat`](https://github.com/narzoul/DDrawCompat/releases) and place `ddraw.dll` in `C:\Rogue Spear`. This will patch DirectDraw (used by DirectX 6 in-game) to work on modern systems.
 1. Modify both `C:\Rogue Spear\RSConfig.exe` and `C:\Rogue Spear\RogueSpear.exe` to change compatibility settings: Windows 98 mode, 16-bit color, and administrator privileges.
 1. Run `C:\Rogue Spear\RSConfig.exe`. Select your GPU and default audio device, and click OK.
-1. Rogue Spear stores its configuration in the Windows registry, so a registry patch is distributed in this repo. Download [`RogueSpearWindows10.reg`](RogueSpearWindows10.reg), open it in a text editor, and make sure it's using the right directories. The copy in this repo assumes `C:\Rogue Spear`. You may also want to set `VideoResolution` to your desired window size.
-1. Right-click `RogueSpearWindows10.reg` and click `Merge` to apply your config.
+1. Rogue Spear stores its configuration in the Windows registry, so a registry patch is distributed in this repo. Download [`RogueSpearWindows10.reg`](RogueSpearWindows10.reg), right-click it in Windows Explorer, and click `Merge` to apply the config.
 1. Run `C:\Rogue Spear\RogueSpear.exe` to start the game, optionally using [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) to get a borderless window. The game disc will need to be "mounted" to play the game.
 
 At this point, you can run the game. The menu system will only run in 640x480 mode. Once you enter a game, the resolution will increase.
