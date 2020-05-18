@@ -36,7 +36,7 @@ To test things out, enter a Terrorist Hunt scenario in the Training mode.
 
 ## Playing Online
 
-Rainbow Six and Rogue Spear never supported dedicated servers. They originally used matchmaking services such as MSNZone and MPlayer.com for peer-to-peer connections. Playing online also requires at least two players to be connected before the game will start.
+Rainbow Six and Rogue Spear unfortunately do not support dedicated servers. They originally used matchmaking services such as MSNZone and MPlayer.com for peer-to-peer connections. Playing online also requires at least two players to be connected before the game will start.
 
 You can host a game from the multiplayer menu and allow someone to connect to your LAN IP (on port 2346). However, since LAN IPs aren't Internet-accessible, we need to use a third-party service for getting clients to your server.
 
