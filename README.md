@@ -14,7 +14,7 @@ The game and expansions are no longer available for sale. Instead, they can be d
 
 ### Rogue Spear
 
-1. Get some software which can mount BIN/CUE CD images and mount the Rogue Spear **BIN file**.
+1. Get some software which can mount BIN/CUE CD images (such as PowerISO) and mount the Rogue Spear **BIN file**.
 1. Copy the contents of the mounted disc to a folder on your hard drive. If this is skipped, the installer will fail with an "insufficient memory" error.
 1. Modify `<DiscCopy>\Setup.exe` to use `Windows 98` compatibility mode, and run it. Choose an install location (we'll call it `<YourGameDir>`) and install the game. When setup completes, you can delete the copy of the disc contents from your hard drive.
 1. Download the latest nonexperimental release of [`DDrawCompat`](https://github.com/narzoul/DDrawCompat/releases) and place `ddraw.dll` in `<YourGameDir>`. This will patch DirectDraw (used by DirectX 6 in-game) to work on modern systems.
