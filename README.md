@@ -13,7 +13,7 @@ The game and expansions can be downloaded from archive.org:
 1. Installing Rogue Spear
    1. Get some software which can mount BIN/CUE CD images and mount the Rogue Spear BIN file.
    1. Copy the contents of the mounted disc to a folder on your hard drive. If this is skipped, the installer will fail with an "insufficient memory" error.
-   1. Modify `<DiscCopy>\Setup.exe` to use `Windows 98` compatibility mode, and run it. It may take a long time to reach 100% from 99%. Choose and install location (we'll call it `<YourGameDir>`), and install the game.
+   1. Modify `<DiscCopy>\Setup.exe` to use `Windows 98` compatibility mode, and run it. It may take a minute or two to reach 100% from 99%. Choose an install location (we'll call it `<YourGameDir>`) and install the game.
 1. Running Rogue Spear
    1. Download the latest nonexperimental release of [`DDrawCompat`](https://github.com/narzoul/DDrawCompat/releases) and place `ddraw.dll` in `<YourGameDir>`. This will patch DirectDraw (used by DirectX 6 in-game) to work on modern systems.
    1. Modify both `<YourGameDir>\RSConfig.exe` and `<YourGameDir>\RogueSpear.exe` to change compatibility settings: Windows 98 mode, 16-bit color, and administrator privileges.
