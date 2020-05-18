@@ -35,7 +35,7 @@ Note: If you are on a laptop which has a trackpad, your mouse may not work. Have
 Urban Ops is the only expansion which is not a standalone game. It has a shorter install process:
 
 1. Mount the Urban Operations **CUE file** and copy its contents to `C:\tmp`.
-1. Modify `C:\tmp\Setup.exe` to use `Windows 98` compatibility mode, and run it. When setup completes, you can delete the copy of the disc contents from your hard drive.
+1. Modify `C:\tmp\Setup.exe` to use `Windows 98` compatibility mode, and run it. When setup completes, you can delete `C:\tmp`.
 1. Install [Urban Operations Patch 2.52](https://www.moddb.com/games/tom-clancys-rainbow-six-rogue-spear/downloads/rogue-spear-urban-operations-252-us-patch)
 1. Modify `C:\Rogue Spear\UrbanOperations.exe` to change compatibility settings: Windows 98 mode, 16-bit color, and administrator privileges.
 1. Run `C:\Rogue Spear\UrbanOperations.exe` to start the game, optionally using [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) to get a borderless window. The game disc will need to be "mounted" to play the game.
