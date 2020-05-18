@@ -137,8 +137,8 @@ Windows Registry Editor Version 5.00
 "UseMaxSounds"="FALSE"
 "FullScreen"="FALSE"
 "DetailLevel"=dword:00000002
-"PlayIntroMovie"="FALSE"
-"PlaySplashMovie"="FALSE"
+"PlayIntroMovie"="TRUE"
+"PlaySplashMovie"="TRUE"
 "SoftwareOnly"="FALSE"
 "UseShellGamma"="TRUE"
 "ShellGammaValue"="1.000000"
