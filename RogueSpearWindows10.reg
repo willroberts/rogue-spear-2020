@@ -53,7 +53,7 @@ Windows Registry Editor Version 5.00
 "DifficultySetting"="EASY"
 "RequireInsertionPoint"="TRUE"
 "PromptForGameStart"="TRUE"
-"PromptForDefaultPlan"="FALSE"
+"PromptForDefaultPlan"="TRUE"
 "PromptForExecutePlan"="TRUE"
 "MultiplayerPlayerName"="JOHNDOE"
 "MultiplayerServerName"="ROGUE SPEAR GAME SERVER"
