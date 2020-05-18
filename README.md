@@ -67,7 +67,7 @@ Some players use Voobly to provide matchmaking similar to MPlayer, but we were n
 ### Hosting a Game
 
 1. Click `Create Game` in the Multiplayer menu.
-1. When prompted by Windows Firewall, be sure to allow traffic on both private and public networks. You can also open Windows Firewall and change the settings for RogueSpear.exe (or expansion) there.
+1. When prompted by Windows Firewall, be sure to allow traffic on both private and public networks. You can also open Windows Firewall and change the settings for RogueSpear.exe (or expansion equivalent) there.
 1. Make sure the game has chosen your desired IP address (e.g. Hamachi). This is particularly important if you have VM or VPN software which creates virtual network interfaces.
 1. In the bottom-left, select `PLAYER` if you want to play or `OBSERVER` if you are simply hosting the server.
 1. Select the mode, map, options, etc. in the menu.
