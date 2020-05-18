@@ -22,7 +22,7 @@ The game and expansions can be downloaded from archive.org:
 1. Right-click `RogueSpearWindows10.reg` and click `Merge` to apply your config.
 1. Run `<YourGameDir>\RogueSpear.exe` to start the game, optionally using [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) to get a borderless window. The game disc will need to be "mounted" to play the game.
 
-Note: If you are on a laptop using a trackpad, your mouse may not work. Haven't found a solution for this yet.
+Note: If you are on a laptop which has a trackpad, your mouse may not work. Haven't found a solution for this yet.
 
 ### Urban Operations
 
