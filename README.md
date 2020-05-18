@@ -23,7 +23,7 @@ The game and expansions are no longer available for sale. Instead, they can be d
    1. Reduced color mode: 16-bit (65536) color
    1. Run this program as an administrator
 1. Run `C:\Rogue Spear\RSConfig.exe`. Select your GPU and default audio device, and click OK.
-1. Rogue Spear stores its configuration in the Windows registry, so a registry patch is distributed in this repo. Download [`RogueSpearWindows10.reg`](RogueSpearWindows10.reg), right-click it in Windows Explorer, and click `Merge` to apply the config. If you did not install to `C:\Rogue Spear`, you will need to edit this file.
+1. Rogue Spear stores its configuration in the Windows registry, and a full configuration file is distributed in this repo. Download [`RogueSpearWindows10.reg`](RogueSpearWindows10.reg), right-click it in Windows Explorer, and click `Merge` to apply the config. If you did not install to `C:\Rogue Spear`, you will need to edit this file.
 1. Run `C:\Rogue Spear\RogueSpear.exe` to start the game, optionally using [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) to get a borderless window. The game disc will need to be "mounted" to play the game.
 
 At this point, you can run the game. The menu system will only run in 640x480 mode. Once you enter a game, the resolution will increase.
