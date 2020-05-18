@@ -31,11 +31,6 @@ At this point, you can run the game. The menu system will only run in 640x480 mo
 
 To test things out, enter a Terrorist Hunt scenario in the Training mode.
 
-#### Common Issues
-
-* If your video resolution extends beyond your window boundaries, try a 4:3 resolution like 1152x864 instead.
-* If you are on a laptop which has a trackpad, your cursor may not work in-game. Haven't found a solution for this yet.
-
 ### Urban Operations
 
 Urban Ops is the only expansion which is not a standalone game. It has a shorter install process:
