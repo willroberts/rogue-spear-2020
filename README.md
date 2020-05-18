@@ -7,6 +7,8 @@ The game and expansions can be downloaded from archive.org:
 * [Rogue Spear](https://archive.org/details/Tom_Clancys_Rainbow_Six_Rogue_Spear_Version_2.05_Red_Storm_Entertainment_1999) (Ctrl-F TORRENT)
 * [Urban Operations](https://archive.org/details/TomClancysRainbowSixRogueSpearMissionPackUrbanOperationsUSA) (Ctrl-F ZIP)
 * [Black Thorn](https://archive.org/details/TomClancysRainbowSixRogueSpearBlackThornUSA) (Ctrl-F ZIP)
+* [Covert Ops Essentials Disc 1](https://archive.org/details/Rainbow_Six_Covert_Ops_Essentials) (Ctrl-F TORRENT)
+* [Covert Ops Essentials Disc 2](https://archive.org/details/Tom_Clancys_Rainbow_Six_Covert_Ops_Red_Storm_2000) (Ctrl-F TORRENT)
 
 ## Installing on Windows 10
 
