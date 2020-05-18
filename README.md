@@ -46,7 +46,7 @@ Urban Ops is the only expansion which is not a standalone game. It has a shorter
 
 ### Black Thorn and Covert Ops
 
-Follow the Rogue Spear steps for these games, since they are standalone expansions.
+Follow the Rogue Spear steps for these games, since they are standalone expansions. Use `C:\<Expansion>` instead of `C:\Rogue Spear` and edit the registry file before applying to work with BT/CO.
 
 ## Playing Online
 
