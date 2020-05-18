@@ -14,7 +14,7 @@ The game and expansions are no longer available for sale. Instead, they can be d
 
 ### Rogue Spear
 
-1. Get some software which can mount BIN/CUE CD images and mount the Rogue Spear BIN file.
+1. Get some software which can mount BIN/CUE CD images and mount the Rogue Spear **BIN file**.
 1. Copy the contents of the mounted disc to a folder on your hard drive. If this is skipped, the installer will fail with an "insufficient memory" error.
 1. Modify `<DiscCopy>\Setup.exe` to use `Windows 98` compatibility mode, and run it. Choose an install location (we'll call it `<YourGameDir>`) and install the game. When setup completes, you can delete the copy of the disc contents from your hard drive.
 1. Download the latest nonexperimental release of [`DDrawCompat`](https://github.com/narzoul/DDrawCompat/releases) and place `ddraw.dll` in `<YourGameDir>`. This will patch DirectDraw (used by DirectX 6 in-game) to work on modern systems.
@@ -30,7 +30,7 @@ Note: If you are on a laptop which has a trackpad, your mouse may not work. Have
 
 Urban Ops is the only expansion which is not a standalone game. It has a shorter install process:
 
-1. Mount the Urban Operations CUE file and copy its contents to your drive.
+1. Mount the Urban Operations **CUE file** and copy its contents to your drive.
 1. Modify `<DiscCopy>\Setup.exe` to use `Windows 98` compatibility mode, and run it. When setup completes, you can delete the copy of the disc contents from your hard drive.
 1. Install [Urban Operations Patch 2.52](https://www.moddb.com/games/tom-clancys-rainbow-six-rogue-spear/downloads/rogue-spear-urban-operations-252-us-patch)
 1. Modify `<YourGameDir>\UrbanOperations.exe` to change compatibility settings: Windows 98 mode, 16-bit color, and administrator privileges.
