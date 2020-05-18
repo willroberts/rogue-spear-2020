@@ -31,7 +31,10 @@ At this point, you can run the game. The menu system will only run in 640x480 mo
 
 To test things out, enter a Terrorist Hunt scenario in the Training mode.
 
-Note: If you are on a laptop which has a trackpad, your mouse may not work. Haven't found a solution for this yet.
+#### Common Issues
+
+* If your video resolution extends beyond your window boundaries, try a 4:3 resolution like 1152x864 instead.
+* If you are on a laptop which has a trackpad, your mouse may not work. Haven't found a solution for this yet.
 
 ### Urban Operations
 
