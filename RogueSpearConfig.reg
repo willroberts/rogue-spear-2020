@@ -118,7 +118,7 @@ Windows Registry Editor Version 5.00
 "AutoTarget"="FALSE"
 "RecordMission"="FALSE"
 "UnlimitedPractice"="FALSE"
-"AlwaysRun"="TRUE"
+"AlwaysRun"="FALSE"
 "MasterSoundOn"="TRUE"
 "MasterSoundVolume"="100.000000"
 "AmbientSoundOn"="TRUE"
