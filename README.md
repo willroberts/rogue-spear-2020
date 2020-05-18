@@ -2,7 +2,7 @@
 
 ## Obtaining the Game
 
-The game and expansions can be downloaded from archive.org:
+The game and expansions are no longer available for sale. Instead, they can be downloaded from archive.org:
 
 * [Rogue Spear](https://archive.org/details/Tom_Clancys_Rainbow_Six_Rogue_Spear_Version_2.05_Red_Storm_Entertainment_1999) (Ctrl-F TORRENT)
 * [Urban Operations](https://archive.org/details/TomClancysRainbowSixRogueSpearMissionPackUrbanOperationsUSA) (Ctrl-F ZIP)
