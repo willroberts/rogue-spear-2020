@@ -18,9 +18,12 @@ The game and expansions are no longer available for sale. Instead, they can be d
 1. Copy the contents of the mounted disc to `C:\tmp`. If this is skipped, the installer will fail with an "insufficient memory" error.
 1. Modify `C:\tmp\Setup.exe` to use `Windows 98` compatibility mode, and run it. **Install the game to `C:\Rogue Spear`**. When prompted by the game, **do not** install DirectX 6. When setup completes, you can delete `C:\tmp`.
 1. Download the latest nonexperimental release of [`DDrawCompat`](https://github.com/narzoul/DDrawCompat/releases) and place `ddraw.dll` in `C:\Rogue Spear`. This will patch DirectDraw (used by DirectX 6 in-game) to work on modern systems.
-1. Modify both `C:\Rogue Spear\RSConfig.exe` and `C:\Rogue Spear\RogueSpear.exe` to change compatibility settings: Windows 98 mode, 16-bit color, and administrator privileges.
+1. Modify both `C:\Rogue Spear\RSConfig.exe` and `C:\Rogue Spear\RogueSpear.exe` to change compatibility settings:
+   1. Run this program in compatibility mode for: Windows 98 / Windows Me
+   1. Reduced color mode: 16-bit (65536) color
+   1. Run this program as an administrator
 1. Run `C:\Rogue Spear\RSConfig.exe`. Select your GPU and default audio device, and click OK.
-1. Rogue Spear stores its configuration in the Windows registry, so a registry patch is distributed in this repo. Download [`RogueSpearWindows10.reg`](RogueSpearWindows10.reg), right-click it in Windows Explorer, and click `Merge` to apply the config.
+1. Rogue Spear stores its configuration in the Windows registry, so a registry patch is distributed in this repo. Download [`RogueSpearWindows10.reg`](RogueSpearWindows10.reg), right-click it in Windows Explorer, and click `Merge` to apply the config. If you did not install to `C:\Rogue Spear`, you will need to edit this file.
 1. Run `C:\Rogue Spear\RogueSpear.exe` to start the game, optionally using [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) to get a borderless window. The game disc will need to be "mounted" to play the game.
 
 At this point, you can run the game. The menu system will only run in 640x480 mode. Once you enter a game, the resolution will increase.
@@ -36,7 +39,10 @@ Urban Ops is the only expansion which is not a standalone game. It has a shorter
 1. Mount the Urban Operations **CUE file** and copy its contents to `C:\tmp`.
 1. Modify `C:\tmp\Setup.exe` to use `Windows 98` compatibility mode, and run it. When setup completes, you can delete `C:\tmp`.
 1. Install [Urban Operations Patch 2.52](https://www.moddb.com/games/tom-clancys-rainbow-six-rogue-spear/downloads/rogue-spear-urban-operations-252-us-patch)
-1. Modify `C:\Rogue Spear\UrbanOperations.exe` to change compatibility settings: Windows 98 mode, 16-bit color, and administrator privileges.
+1. Modify `C:\Rogue Spear\UrbanOperations.exe` to change compatibility settings:
+   1. Run this program in compatibility mode for: Windows 98 / Windows Me
+   1. Reduced color mode: 16-bit (65536) color
+   1. Run this program as an administrator
 1. Run `C:\Rogue Spear\UrbanOperations.exe` to start the game, optionally using [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) to get a borderless window. The game disc will need to be "mounted" to play the game.
 
 ### Black Thorn and Covert Ops
