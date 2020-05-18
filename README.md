@@ -50,7 +50,12 @@ Rainbow Six and Rogue Spear unfortunately do not support dedicated servers. They
 
 You can host a game from the multiplayer menu and allow someone to connect to your LAN IP (on port 2346). However, since LAN IPs aren't Internet-accessible, we need to use a third-party service for getting clients to your server.
 
-Note: When you host, take note of the IP address in the server lobby chat. Make sure it matches what you expect. It may have bound to the wrong adapter if you have VM or VPN software installed.
+Note: When you host, take note of the IP address in the server lobby chat. Make sure it matches what you expect. It may have bound to the wrong adapter if you have VM or VPN software installed. Alternatively, you can edit the following values in `RogueSpearWindows10.reg`:
+
+```
+"MultiplayerPreferredNetworkAddress"="your.local.ethernet.ip"
+"MultiplayerUseDefaultNetworkAddress"="FALSE"
+```
 
 There are a few options here, such as Voobly (which natively supports Rogue Spear and launches the game for you) and Hamachi (which only allows users to connect to your LAN IP). Voobly only supports Rogue Spear while Hamachi can also support Urban Operations or Black Thorn.
 
