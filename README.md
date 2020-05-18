@@ -28,6 +28,8 @@ Note: If you are on a laptop which has a trackpad, your mouse may not work. Have
 
 ### Urban Operations
 
+Urban Ops is the only expansion which is not a standalone game. It has a shorter install process:
+
 1. Mount the Urban Operations CUE file and copy its contents to your drive.
 1. Modify `<DiscCopy>\Setup.exe` to use `Windows 98` compatibility mode, and run it. When setup completes, you can delete the copy of the disc contents from your hard drive.
 1. Install [Urban Operations Patch 2.52](https://www.moddb.com/games/tom-clancys-rainbow-six-rogue-spear/downloads/rogue-spear-urban-operations-252-us-patch)
@@ -37,6 +39,10 @@ Note: If you are on a laptop which has a trackpad, your mouse may not work. Have
 At this point, you can run the game. The menu system will only run in 640x480 mode. Once you enter a game, the resolution will increase.
 
 To test things out, enter a Terrorist Hunt scenario in the Training mode.
+
+### Black Thorn and Covert Ops
+
+Follow the Rogue Spear steps for these games, since they are standalone expansions.
 
 ## Playing Online
 
