@@ -1,4 +1,4 @@
-# Playing Rogue Spear & Urban Operations in 2020 and Beyond
+# Playing Rainbow Six 2: Rogue Spear in 2020 and Beyond
 
 ## Obtaining the Game
 
