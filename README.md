@@ -68,7 +68,7 @@ Note: When you host, take note of the IP address in the server lobby chat. Make 
 
 There are a few options here, such as Voobly (which natively supports Rogue Spear and launches the game for you) and Hamachi (which only allows users to connect to your LAN IP). Voobly only supports Rogue Spear while Hamachi can also support Urban Operations or Black Thorn.
 
-This section will cover the usage of Voobly:
+### Playing Online with Voobly
 
 1. Make an account and download the client.
 1. Log into the client, scroll down the list of games, and double click Rogue Spear.
@@ -77,3 +77,7 @@ This section will cover the usage of Voobly:
 1. If there are no populated servers, host a server by clicking `Host`.
 
 See also: https://www.voobly.com/pages/view/209/Rogue-Spear-Q--A  
+
+### Playing Online with Hamachi, VPN, etc.
+
+TBD
