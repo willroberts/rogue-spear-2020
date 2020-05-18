@@ -35,13 +35,15 @@ To test things out, enter a Terrorist Hunt scenario in the Training mode.
 
 ## Playing Online
 
-### Manual Join
+Playing online requires at least two players to be connected before the game will start. There are two ways to play online in 2020:
 
-This in-game option lets you paste an IP and port (default: 2346) to directly join a server.
+### 1. Hosting a Local Server
 
-### Voobly
+You can host a game from the multiplayer menu and allow someone to connect to your LAN IP (on port 2346). However, since LAN IPs aren't Internet-accessible, we need to use a third-party service for getting clients to your server.
 
-Voobly is a third-party peer-to-peer matchmaking service which [supports Rogue Spear](http://www.voobly.com/games/category/9), among other games.
+There are a few options here, such as Voobly (which natively supports Rogue Spear and launches the game for you) and Hamachi (which only allows users to connect to your LAN IP). Voobly only supports Rogue Spear while Hamachi can also support Urban Operations or Black Thorn.
+
+This section will cover the usage of Voobly:
 
 1. Make an account and download the client.
 1. Log into the client, scroll down the list of games, and double click Rogue Spear.
@@ -50,3 +52,7 @@ Voobly is a third-party peer-to-peer matchmaking service which [supports Rogue S
 1. If there are no populated servers, host a server by clicking `Host`.
 
 See also: https://www.voobly.com/pages/view/209/Rogue-Spear-Q--A  
+
+### 2. Hosting a Dedicated Server
+
+asdf
