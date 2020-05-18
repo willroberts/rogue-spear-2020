@@ -37,7 +37,7 @@ To test things out, enter a Terrorist Hunt scenario in the Training mode.
 
 ### Manual Join
 
-Paste an IP here to join a server.
+This in-game option lets you paste an IP and port (default: 2346) to directly join a server.
 
 ### Voobly
 
