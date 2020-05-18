@@ -2,7 +2,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Red Storm Entertainment\Rogue Spear]
 "Version"="2.05"
-"MultiplayerPreferredNetworkAddress"="127.0.0.1"
+"MultiplayerPreferredNetworkAddress"="0.0.0.0"
 "MultiplayerUseDefaultNetworkAddress"="TRUE"
 "InstallationPath"="C:\\rogue spear"
 "DataPath"="\\data"
@@ -55,7 +55,7 @@ Windows Registry Editor Version 5.00
 "PromptForGameStart"="TRUE"
 "PromptForDefaultPlan"="FALSE"
 "PromptForExecutePlan"="TRUE"
-"MultiplayerPlayerName"="VirusGaming Windows 10"
+"MultiplayerPlayerName"="JOHNDOE"
 "MultiplayerServerName"="ROGUE SPEAR GAME SERVER"
 "MultiplayerClanName"="RAINBOW"
 "MultiplayerMessageName"="Welcome to Rogue Spear"
