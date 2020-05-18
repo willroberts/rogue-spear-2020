@@ -50,5 +50,5 @@ Voobly is a third-party peer-to-peer matchmaking service which [supports Rogue S
 #### Other Resources
 
 https://www.voobly.com/pages/view/209/Rogue-Spear-Q--A  
-http://virusgaming.zohosites.com/downloads.html  
-http://virusgaming.zohosites.com/how-to.html/
+http://virusgaming.zohosites.com/how-to.html  
+http://virusgaming.zohosites.com/downloads.html
