@@ -55,29 +55,28 @@ Follow the Rogue Spear steps for these games, since they are standalone expansio
 
 ## Playing Online
 
-Rainbow Six and Rogue Spear unfortunately do not support dedicated servers. They originally used third-party services such as MSNZone, MPlayer.com, and Gamespy Arcade for peer-to-peer matchmaking. Playing online also requires at least two players to be connected before the game will start.
+Rainbow Six and Rogue Spear unfortunately do not support dedicated servers. They originally used third-party MPlayer.com and The Zone (MSN) for peer-to-peer matchmaking. Playing online also requires at least two players to be connected before the game will start.
 
-You can host a game from the multiplayer menu and allow someone to connect to your LAN IP (on port 2346). However, since LAN IPs aren't Internet-accessible, we need to use a third-party service for getting clients to your server.
+Some players use Voobly to provide matchmaking similar to MPlayer, but we were not able to get it working in testing. Instead, we decided to host a LAN game and use Hamachi to bridge our local networks. This also allows us to play the expansions, while Voobly only supports the base game.
 
-Note: When you host, take note of the IP address in the server lobby chat. Make sure it matches what you expect. It may have bound to the wrong adapter if you have VM or VPN software installed. Alternatively, you can edit the following values in `RogueSpearConfig.reg`:
+### Required Setup
 
-```
-"MultiplayerPreferredNetworkAddress"="your.local.ethernet.ip"
-"MultiplayerUseDefaultNetworkAddress"="FALSE"
-```
+1. Open `MP GAME` in the Options menu.
+   1. Set your `PLAYER NAME`
+   1. Uncheck `BEHIND FIREWALL`
+   1. Set `CONNECTION` to `LAN`
+1. Open `MP SERVER` in the Options menu.
+   1. Set `JOIN PORT` to `2346`
+   1. Uncheck `USE PASSWORD`
 
-There are a few options here, such as Voobly (which natively supports Rogue Spear and launches the game for you) and Hamachi (which only allows users to connect to your LAN IP). Voobly only supports Rogue Spear while Hamachi can also support Urban Operations or Black Thorn.
+### Hosting a Game
 
-### Playing Online with Voobly
+1. Click `Create Game` in the Multiplayer menu.
+1. Make sure the game has chosen your desired IP address (e.g. Hamachi). This is particularly important if you have VM or VPN software which creates virtual network interfaces.
+1. In the bottom-left, select `PLAYER` if you want to play or `OBSERVER` if you are simply hosting the server.
+1. Select the mode, map, options, etc. in the menu.
+1. When all players have connected, click the green right arrow to start the game.
 
-1. Make an account and download the client.
-1. Log into the client, scroll down the list of games, and double click Rogue Spear.
-1. If prompted, install any updates.
-1. In the game lobby, choose an existing server to join.
-1. If there are no populated servers, host a server by clicking `Host`.
+### Joining a Game
 
-See also: https://www.voobly.com/pages/view/209/Rogue-Spear-Q--A  
-
-### Playing Online with Hamachi, VPN, etc.
-
-TBD
+Click `Manual Join` in the Multiplayer menu and enter the host's Hamachi IP and port `2346`.
