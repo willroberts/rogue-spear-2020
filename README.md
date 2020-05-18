@@ -24,6 +24,10 @@ The game and expansions are no longer available for sale. Instead, they can be d
 1. Right-click `RogueSpearWindows10.reg` and click `Merge` to apply your config.
 1. Run `<YourGameDir>\RogueSpear.exe` to start the game, optionally using [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) to get a borderless window. The game disc will need to be "mounted" to play the game.
 
+At this point, you can run the game. The menu system will only run in 640x480 mode. Once you enter a game, the resolution will increase.
+
+To test things out, enter a Terrorist Hunt scenario in the Training mode.
+
 Note: If you are on a laptop which has a trackpad, your mouse may not work. Haven't found a solution for this yet.
 
 ### Urban Operations
@@ -35,10 +39,6 @@ Urban Ops is the only expansion which is not a standalone game. It has a shorter
 1. Install [Urban Operations Patch 2.52](https://www.moddb.com/games/tom-clancys-rainbow-six-rogue-spear/downloads/rogue-spear-urban-operations-252-us-patch)
 1. Modify `<YourGameDir>\UrbanOperations.exe` to change compatibility settings: Windows 98 mode, 16-bit color, and administrator privileges.
 1. Run `<YourGameDir>\UrbanOperations.exe` to start the game, optionally using [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) to get a borderless window. The game disc will need to be "mounted" to play the game.
-
-At this point, you can run the game. The menu system will only run in 640x480 mode. Once you enter a game, the resolution will increase.
-
-To test things out, enter a Terrorist Hunt scenario in the Training mode.
 
 ### Black Thorn and Covert Ops
 
