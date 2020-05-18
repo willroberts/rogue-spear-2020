@@ -19,7 +19,7 @@ The game and expansions can be downloaded from archive.org:
 1. Modify both `<YourGameDir>\RSConfig.exe` and `<YourGameDir>\RogueSpear.exe` to change compatibility settings: Windows 98 mode, 16-bit color, and administrator privileges.
 1. Run `<YourGameDir>\RSConfig.exe`. Select your GPU and default audio device, and click OK.
 1. Rogue Spear stores its configuration in the Windows registry, so a registry patch is distributed in this repo. Open [`RogueSpearWindows10.reg`](RogueSpearWindows10.reg) in a text editor and make sure it's using the right directories. The copy in this repo assumes `C:\Rogue Spear`. You may also want to set `VideoResolution` to your desired window size.
-1. Open `regedit` and drag and drop `RogueSpearWindows10.reg` into the `HKEY_LOCAL_MACHINE` directory.
+1. Right-click `RogueSpearWindows10.reg` and click `Merge` to apply your config.
 1. Run `<YourGameDir>\RogueSpear.exe` to start the game, optionally using [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) to get a borderless window. The game disc will need to be "mounted" to play the game.
 
 ### Urban Operations
