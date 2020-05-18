@@ -43,6 +43,6 @@ Paste IP here to join a server.
 
 ### Create Game
 
-Starts a local server that you can also play on. Requires port forwarding. Won't let you start game without 2 players minimum.
+Starts a local server that you can also play on. Requires port forwarding or a VPN tunnel like Hamachi. Won't let you start game without 2 players minimum.
 
 ### Other: Voobly and Gameranger
