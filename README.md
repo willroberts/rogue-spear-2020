@@ -13,7 +13,7 @@ The game and expansions can be downloaded from archive.org:
 1. Installing Rogue Spear
    1. Get some software which can mount BIN/CUE CD images and mount the Rogue Spear BIN file.
    1. Copy the contents of the mounted disc to a folder on your hard drive. If this is skipped, the installer will fail with an "insufficient memory" error.
-   1. Modify `<DiscCopy>\Setup.exe` to use `Windows 98` compatibility mode, and run it. It may take a minute or two to reach 100% from 99%. Choose an install location (we'll call it `<YourGameDir>`) and install the game.
+   1. Modify `<DiscCopy>\Setup.exe` to use `Windows 98` compatibility mode, and run it. It may take a minute or two to reach 100% from 99%. Choose an install location (we'll call it `<YourGameDir>`) and install the game. When setup completes, you can delete the copy of the disc contents from your hard drive.
 1. Running Rogue Spear
    1. Download the latest nonexperimental release of [`DDrawCompat`](https://github.com/narzoul/DDrawCompat/releases) and place `ddraw.dll` in `<YourGameDir>`. This will patch DirectDraw (used by DirectX 6 in-game) to work on modern systems.
    1. Modify both `<YourGameDir>\RSConfig.exe` and `<YourGameDir>\RogueSpear.exe` to change compatibility settings: Windows 98 mode, 16-bit color, and administrator privileges.
@@ -23,7 +23,7 @@ The game and expansions can be downloaded from archive.org:
    1. Run `<YourGameDir>\RogueSpear.exe` to start the game, optionally using [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) to get a borderless window. The game disc will need to be "mounted" to play the game.
 1. Installing Urban Operations
    1. Mount the Urban Operations CUE file and copy its contents to your drive.
-   1. Modify `<DiscCopy>\Setup.exe` to use `Windows 98` compatibility mode, and run it. It may take a long time to reach 100% from 99%.
+   1. Modify `<DiscCopy>\Setup.exe` to use `Windows 98` compatibility mode, and run it. It may take a long time to reach 100% from 99%. When setup completes, you can delete the copy of the disc contents from your hard drive.
    1. Install [Urban Operations Patch 2.52](https://www.moddb.com/games/tom-clancys-rainbow-six-rogue-spear/downloads/rogue-spear-urban-operations-252-us-patch)
    1. Modify `<YourGameDir>\UrbanOperations.exe` to change compatibility settings: Windows 98 mode, 16-bit color, and administrator privileges.
    1. Run `<YourGameDir>\UrbanOperations.exe` to start the game, optionally using [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases) to get a borderless window. The game disc will need to be "mounted" to play the game.
