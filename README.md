@@ -44,7 +44,9 @@ This in-game option lets you paste an IP and port (default: 2346) to directly jo
 Voobly is a third-party peer-to-peer matchmaking service which [supports Rogue Spear](http://www.voobly.com/games/category/9), among other games.
 
 1. Make an account and download the client.
-1. ???
-1. Profit
+1. Log into the client, scroll down the list of games, and double click Rogue Spear.
+1. If prompted, install any updates.
+1. In the game lobby, choose an existing server to join.
+1. If there are no populated servers, host a server by clicking `Host`.
 
 See also: https://www.voobly.com/pages/view/209/Rogue-Spear-Q--A  
