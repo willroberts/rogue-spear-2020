@@ -35,14 +35,19 @@ To test things out, enter a Terrorist Hunt scenario in the Training mode.
 
 ## Playing Online
 
-In the Multiplayer menu, there are two submenus which still work:
-
 ### Manual Join
 
-Paste IP here to join a server.
+Paste an IP here to join a server.
 
-### Create Game
+### Voobly
 
-Starts a local server that you can also play on. Requires port forwarding or a VPN tunnel like Hamachi. Won't let you start game without at least 2 players connected.
+Voobly is a third-party peer-to-peer matchmaking service which [supports Rogue Spear](http://www.voobly.com/games/category/9), among other games.
 
-### Other: Voobly and Gameranger
+1. Make an account and download the client.
+1. ???
+1. Profit
+
+#### Other Resources
+
+https://www.voobly.com/pages/view/209/Rogue-Spear-Q--A
+http://virusgaming.zohosites.com/downloads.html
