@@ -2,7 +2,7 @@
 
 ## Community Resources
 
-* [Discord](https://discord.com/invite/QnXXqcK)
+* [AllR6 Discord](https://discord.com/invite/QnXXqcK)
 
 ## Obtaining the Game
 
