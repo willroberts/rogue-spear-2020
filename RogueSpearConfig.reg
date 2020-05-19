@@ -120,7 +120,7 @@ Windows Registry Editor Version 5.00
 "UnlimitedPractice"="FALSE"
 "AlwaysRun"="FALSE"
 "MasterSoundOn"="TRUE"
-"MasterSoundVolume"="100.000000"
+"MasterSoundVolume"="50.000000"
 "AmbientSoundOn"="TRUE"
 "AmbientSoundVolume"="100.000000"
 "GunshotSoundOn"="TRUE"
