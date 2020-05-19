@@ -1,5 +1,9 @@
 # Playing Rainbow Six 2: Rogue Spear in 2020 and Beyond
 
+## Community Resources
+
+* [Discord](https://discord.com/invite/QnXXqcK)
+
 ## Obtaining the Game
 
 The game and expansions are no longer available for sale. Instead, they can be downloaded from archive.org:
