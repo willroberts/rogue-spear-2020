@@ -1,5 +1,7 @@
 # Playing Rainbow Six 2: Rogue Spear in 2020 and Beyond
 
+Instructions for playing Rainbow Six 2: Rogue Spear and its expansions. Instructions may also apply to Rainbow Six 1 as they share the same engine.
+
 ## Community Resources
 
 * [AllR6 Discord](https://discord.com/invite/QnXXqcK)
@@ -80,3 +82,7 @@ Some players use Voobly to provide matchmaking similar to MPlayer, but we were n
 ### Joining a Game
 
 Click `Manual Join` in the Multiplayer menu and enter the host's Hamachi IP and port `2346`.
+
+## Additional Resources
+
+[Rogue Spear Help Book on Voobly.com](https://www.voobly.com/pages/view/209/www.xcgaming.com/www.xcgaming.com/www.spearstats.com)
