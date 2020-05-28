@@ -37,6 +37,8 @@ At this point, you can run the game. The menu system will only run in 640x480 mo
 
 To test things out, enter a Terrorist Hunt scenario in the Training mode.
 
+If you'd like to instantly unlock all maps for custom missions, download [RogueSpearSaves.zip](RogueSpearSaves.zip) and extract the contents to `C:\Rogue Spear\data\save`.
+
 ### Urban Operations
 
 Urban Ops is the only expansion which is not a standalone game. It has a shorter install process:
