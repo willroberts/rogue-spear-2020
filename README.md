@@ -37,8 +37,6 @@ At this point, you can run the game. The menu system will only run in 640x480 mo
 
 To test things out, enter a Terrorist Hunt scenario in the Training mode.
 
-If you'd like to instantly unlock all maps for custom missions, download [RogueSpearSaves.zip](RogueSpearSaves.zip) and extract the contents to `C:\Rogue Spear\data\save`.
-
 ### Urban Operations
 
 Urban Ops is the only expansion which is not a standalone game. It has a shorter install process:
@@ -55,6 +53,14 @@ Urban Ops is the only expansion which is not a standalone game. It has a shorter
 ### Black Thorn and Covert Ops
 
 Follow the Rogue Spear steps for these games, since they are standalone expansions. Use `C:\<Expansion>` instead of `C:\Rogue Spear` and edit the registry file before applying to work with BT/CO.
+
+## Unlocking All Custom Missions
+
+For a mission to be available in custom mission mode, it must have been completed in campaign mode. In order to get around this, you can import existing save files which have finished the game, instantly unlocking all maps and missions.
+
+First, back up any existing save files in `C:\Rogue Spear\data\save` and `C:\Rogue Spear\mods\<ModName>\save`. Then download [RogueSpearSaves.zip](RogueSpearSaves.zip) and extract the contents to your Rogue Spear directory. This will unlock all missions for Rogue Spear, Urban Operations, and the Classic Missions from Urban Operations.
+
+If desired, you can rename `camp0000.cmp` and the `camp0000` folder to any number to avoid overwriting your existing saves. Additionally, you can edit `camp0000.cmp` to change the name of the save file (the second line).
 
 ## Playing Online
 
