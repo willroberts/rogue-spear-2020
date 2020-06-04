@@ -13,8 +13,8 @@ The game and expansions are no longer available for sale. Instead, they can be d
 * [Rogue Spear](https://archive.org/details/Tom_Clancys_Rainbow_Six_Rogue_Spear_Version_2.05_Red_Storm_Entertainment_1999) (Ctrl-F TORRENT)
 * [Urban Operations](https://archive.org/details/TomClancysRainbowSixRogueSpearMissionPackUrbanOperationsUSA) (Ctrl-F ZIP)
 * [Black Thorn](https://archive.org/details/TomClancysRainbowSixRogueSpearBlackThornUSA) (Ctrl-F ZIP)
-* [Covert Ops Essentials Disc 1](https://archive.org/details/Rainbow_Six_Covert_Ops_Essentials) (Ctrl-F TORRENT)
-* [Covert Ops Essentials Disc 2](https://archive.org/details/Tom_Clancys_Rainbow_Six_Covert_Ops_Red_Storm_2000) (Ctrl-F TORRENT)
+* [Covert Ops Essentials](https://archive.org/details/Tom_Clancys_Rainbow_Six_Covert_Ops_Red_Storm_2000) (Ctrl-F TORRENT)
+  * Note: This is the missions disc. If you're looking for the training disc developed by Magic Lantern Playware, see [here](https://archive.org/details/Rainbow_Six_Covert_Ops_Essentials).
 
 ## Installing on Windows 10
 
