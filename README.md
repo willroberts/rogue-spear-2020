@@ -2,10 +2,6 @@
 
 Instructions for playing Rainbow Six 2: Rogue Spear and its expansions. Instructions may also apply to Rainbow Six 1 as they share the same engine.
 
-## Community Resources
-
-* [AllR6 Discord](https://discord.com/invite/QnXXqcK)
-
 ## Obtaining the Game
 
 The game and expansions are no longer available for sale. Instead, they can be downloaded from archive.org:
@@ -93,4 +89,5 @@ Click `Manual Join` in the Multiplayer menu and enter the host's Hamachi IP and 
 
 ## Additional Resources
 
-[Rogue Spear Help Book on Voobly.com](https://www.voobly.com/pages/view/209/www.xcgaming.com/www.xcgaming.com/www.spearstats.com)
+- [Rogue Spear Help Book on Voobly.com](https://www.voobly.com/pages/view/209/www.xcgaming.com/www.xcgaming.com/www.spearstats.com)
+- [AllR6 Discord](https://discord.com/invite/QnXXqcK)
