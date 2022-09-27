@@ -19,7 +19,7 @@ The game and expansions are no longer available for sale. Instead, they can be d
 1. Get some software which can mount BIN/CUE CD images (such as PowerISO) and mount the Rogue Spear **BIN file**.
 1. Copy the contents of the mounted disc to `C:\tmp`. If this is skipped, the installer will fail with an "insufficient memory" error.
 1. Modify `C:\tmp\Setup.exe` to use `Windows 98` compatibility mode, and run it. **Install the game to `C:\Rogue Spear`**. When prompted by the game, **do not** install DirectX 6. When setup completes, you can delete `C:\tmp`.
-1. Download the latest release of [`DDrawCompat`](https://github.com/narzoul/DDrawCompat/releases) and place `ddraw.dll` in `C:\Rogue Spear`. This will patch DirectDraw (used by DirectX 6 in-game) to work on modern systems. Since the latest version may change over time, there is a [known-working copy of `ddraw.dll`](ddraw.dll) in this repo as well.
+1. Download the latest release of [`DDrawCompat`](https://github.com/narzoul/DDrawCompat/releases) and place `ddraw.dll` in `C:\Rogue Spear`. This will patch DirectDraw (used by DirectX 6 in-game) to work on modern systems. Since the latest version may change over time, there is a [known-working copy of `ddraw.dll`](ddraw.dll) in this repo as well. NOTE: [There is a fix specifically for Rainbow Six and Rogue Spear in v0.4.0](https://github.com/narzoul/DDrawCompat/issues/2#issuecomment-1260081330), so try that version (or later) first!
 1. Modify both `C:\Rogue Spear\RSConfig.exe` and `C:\Rogue Spear\RogueSpear.exe` to change compatibility settings:
    1. Run this program in compatibility mode for: Windows 98 / Windows Me
    1. Reduced color mode: 16-bit (65536) color
