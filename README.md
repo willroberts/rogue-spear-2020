@@ -34,23 +34,12 @@ To test things out, enter a Terrorist Hunt scenario in the Training mode.
 
 ## Installing Expansions
 
-#### Urban Operations
+As with Rogue Spear, mount the expansion CDROM and run through the setup. If Rogue Spear is already installed, expansions will automatically target `C:\Rogue Spear\mods` during installation.
 
-Urban Ops is the only expansion which is not a standalone game. It has a shorter install process:
-
-1. Mount the Urban Operations **CUE file** and copy its contents to `C:\tmp`.
-2. Modify `C:\tmp\Setup.exe` to use `Windows 98` compatibility mode, and run it. When setup completes, you can delete `C:\tmp`.
-3. Install [Urban Operations Patch 2.52](https://www.moddb.com/games/tom-clancys-rainbow-six-rogue-spear/downloads/rogue-spear-urban-operations-252-us-patch)
-4. Modify `C:\Rogue Spear\UrbanOperations.exe` to change compatibility settings:
-   1. Run this program in compatibility mode for: Windows 98 / Windows Me
-   2. Reduced color mode: 16-bit (65536) color
-   3. Run this program as an administrator
-5. Run `C:\Rogue Spear\UrbanOperations.exe` to start the game. The game disc will need to be "mounted" to play the game.
-
-#### Black Thorn and Covert Ops
-
-Follow the Rogue Spear steps for these games, since they are standalone expansions.
-Use `C:\Black Thorn` or `C:\Urban Ops` instead of `C:\Rogue Spear`, and use the registry file specific to that game.
+- For Urban Ops, set compatibility options for `C:\Rogue Spear\UrbanOperations.exe`, and apply configuration from the [UrbanOpsConfig.reg](UrbanOpsConfig.reg) file.
+  - Optionally, install [Urban Operations Patch 2.52](https://www.moddb.com/games/tom-clancys-rainbow-six-rogue-spear/downloads/rogue-spear-urban-operations-252-us-patch).
+- For Black Thorn, set compatibility options for `C:\Rogue Spear\BlackThorn.exe`, and apply configuration from the [BlackThornConfig.reg](BlackThornConfig.reg) file.
+- For Covert Ops, set compatibility options for `C:\Rogue Spear\CovertOperations.exe`, and apply configuration from the [CovertOpsConfig.reg](CovertOpsConfig.reg) file.
 
 ## Unlocking All Custom Missions
 
