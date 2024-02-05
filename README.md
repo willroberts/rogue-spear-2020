@@ -50,7 +50,7 @@ Urban Ops is the only expansion which is not a standalone game. It has a shorter
 #### Black Thorn and Covert Ops
 
 Follow the Rogue Spear steps for these games, since they are standalone expansions.
-Use `C:\<Expansion>` instead of `C:\Rogue Spear`, and edit the directories in the registry file before applying (to match your install directory).
+Use `C:\Black Thorn` or `C:\Urban Ops` instead of `C:\Rogue Spear`, and use the registry file specific to that game.
 
 ## Unlocking All Custom Missions
 
