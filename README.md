@@ -6,7 +6,8 @@ These instructions have been tested on Windows 10 and 11.
 
 ## Obtaining the Game
 
-The game and expansions are no longer available for sale. Instead, they can be downloaded as torrents from archive.org:
+The game and its expansions are no longer available for sale.
+Instead, they can be downloaded as torrents from archive.org:
 
 * [Rogue Spear](https://archive.org/details/Tom_Clancys_Rainbow_Six_Rogue_Spear_Version_2.05_Red_Storm_Entertainment_1999)
 * [Urban Operations](https://archive.org/details/TomClancysRainbowSixRogueSpearMissionPackUrbanOperationsUSA)
