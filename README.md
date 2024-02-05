@@ -1,7 +1,7 @@
 # Playing Rainbow Six 2: Rogue Spear in 2020 and Beyond
 
 This README contains instructions for playing Rainbow Six 2: Rogue Spear and its expansions.
-Instructions may also apply to Rainbow Six 1 as they share the same engine
+Instructions may also apply to Rainbow Six 1 as they share the same engine.
 These instructions have been tested on Windows 10 and 11.
 
 ## Obtaining the Game
