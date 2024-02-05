@@ -37,7 +37,8 @@ To test things out, enter a Terrorist Hunt scenario in the Training mode.
 
 ## Installing Expansions
 
-As with Rogue Spear, mount the expansion CDROM and run through the setup. If Rogue Spear is already installed, expansions will automatically target `C:\Rogue Spear\mods` during installation.
+As with Rogue Spear, mount the expansion CDROM and run through the setup.
+If Rogue Spear is already installed, expansions will automatically target `C:\Rogue Spear\mods` during installation.
 
 - For Urban Ops, set compatibility options for `C:\Rogue Spear\UrbanOperations.exe`, and apply configuration from the [UrbanOpsConfig.reg](UrbanOpsConfig.reg) file.
   - Optionally, install [Urban Operations Patch 2.52](https://www.moddb.com/games/tom-clancys-rainbow-six-rogue-spear/downloads/rogue-spear-urban-operations-252-us-patch).
