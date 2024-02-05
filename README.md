@@ -26,7 +26,7 @@ Instead, they can be downloaded as torrents from archive.org:
    2. Reduced color mode: 16-bit (65536) color
    3. Run this program as an administrator
 6. Run `C:\Rogue Spear\RSConfig.exe`. Select your GPU and default audio device, and click OK.
-7. Rogue Spear stores its configuration in the Windows registry, and a full configuration file is distributed in this repo. Download [RogueSpearConfig.reg](RogueSpearConfig.reg), and edit the config as desired. For example, you may want to change `VideoResolution` from the default (1600x900). If you did not install to `C:\Rogue Spear`, you will need to edit each path in this file.
+7. Rogue Spear stores its configuration in the Windows registry, and a full configuration file is distributed in this repo. Download [RogueSpearConfig.reg](RogueSpearConfig.reg), and edit the config as desired. For example, you may want to change `VideoResolution` from the default (1600x900).
 8. Right-click the config in Windows Explorer, and click `Merge` to apply the config.
 9. Run `C:\Rogue Spear\RogueSpear.exe` to start the game. The game disc will need to be "mounted" to play the game.
 
