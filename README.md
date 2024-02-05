@@ -16,12 +16,12 @@ The game and expansions are no longer available for sale. Instead, they can be d
 
 1.  Get some software which can mount BIN/CUE CDROM images, such as [WinCDEmu](https://github.com/sysprogs/WinCDEmu/releases). Mount the Rogue Spear **BIN file**.
 2. Copy the contents of the mounted disc to `C:\tmp`. If this is skipped, the installer will fail with an "insufficient memory" error.
-3. Modify `C:\tmp\Setup.exe` to use `Windows 98` compatibility mode, and run it. **Install the game to `C:\Rogue Spear`**. When prompted by the game, **do not** install DirectX. When setup completes, you can delete `C:\tmp`.
+3. Modify `C:\tmp\Setup.exe` to use Windows 98 compatibility mode, and run it. **Install the game to `C:\Rogue Spear`**. When prompted by the game, **do not** install DirectX. When setup completes, you can delete `C:\tmp`.
 4. Download the latest release of [DDrawCompat](https://github.com/narzoul/DDrawCompat/releases) and place `ddraw.dll` in `C:\Rogue Spear`. This will patch DirectDraw (used by DirectX in-game) to work on modern systems. Version v0.5.1 has been tested and confirmed to work.
 5. Modify both `C:\Rogue Spear\RSConfig.exe` and `C:\Rogue Spear\RogueSpear.exe` to change compatibility settings:
-   i. Run this program in compatibility mode for: Windows 98 / Windows Me
-   ii. Reduced color mode: 16-bit (65536) color
-   iii. Run this program as an administrator
+   1. Run this program in compatibility mode for: Windows 98 / Windows Me
+   2. Reduced color mode: 16-bit (65536) color
+   3. Run this program as an administrator
 6. Run `C:\Rogue Spear\RSConfig.exe`. Select your GPU and default audio device, and click OK.
 7. Rogue Spear stores its configuration in the Windows registry, and a full configuration file is distributed in this repo. Download [RogueSpearConfig.reg](RogueSpearConfig.reg), and edit the config as desired. For example, you may want to change `VideoResolution` from the default (1600x900). If you did not install to `C:\Rogue Spear`, you will need to edit each path in this file.
 8. Right-click the config in Windows Explorer, and click `Merge` to apply the config.
@@ -42,9 +42,9 @@ Urban Ops is the only expansion which is not a standalone game. It has a shorter
 2. Modify `C:\tmp\Setup.exe` to use `Windows 98` compatibility mode, and run it. When setup completes, you can delete `C:\tmp`.
 3. Install [Urban Operations Patch 2.52](https://www.moddb.com/games/tom-clancys-rainbow-six-rogue-spear/downloads/rogue-spear-urban-operations-252-us-patch)
 4. Modify `C:\Rogue Spear\UrbanOperations.exe` to change compatibility settings:
-   i. Run this program in compatibility mode for: Windows 98 / Windows Me
-   ii. Reduced color mode: 16-bit (65536) color
-   iii. Run this program as an administrator
+   1. Run this program in compatibility mode for: Windows 98 / Windows Me
+   2. Reduced color mode: 16-bit (65536) color
+   3. Run this program as an administrator
 5. Run `C:\Rogue Spear\UrbanOperations.exe` to start the game. The game disc will need to be "mounted" to play the game.
 
 #### Black Thorn and Covert Ops
@@ -77,12 +77,12 @@ This also allows us to play the expansions, while Voobly only supports the base 
 #### Required Setup
 
 1. Open `MP GAME` in the Options menu.
-   i. Set your `PLAYER NAME`
-   ii. Uncheck `BEHIND FIREWALL`
-   iii. Set `CONNECTION` to `LAN`
+   1. Set your `PLAYER NAME`
+   2. Uncheck `BEHIND FIREWALL`
+   3. Set `CONNECTION` to `LAN`
 2. Open `MP SERVER` in the Options menu.
-   i. Set `JOIN PORT` to `2346`
-   ii. Uncheck `USE PASSWORD`
+   1. Set `JOIN PORT` to `2346`
+   2. Uncheck `USE PASSWORD`
 
 #### Hosting a Game
 
