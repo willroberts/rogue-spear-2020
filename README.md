@@ -4,12 +4,12 @@ Instructions for playing Rainbow Six 2: Rogue Spear and its expansions. Instruct
 
 ## Obtaining the Game
 
-The game and expansions are no longer available for sale. Instead, they can be downloaded from archive.org:
+The game and expansions are no longer available for sale. Instead, they can be downloaded as torrents from archive.org:
 
-* [Rogue Spear](https://archive.org/details/Tom_Clancys_Rainbow_Six_Rogue_Spear_Version_2.05_Red_Storm_Entertainment_1999) (Ctrl-F TORRENT)
-* [Urban Operations](https://archive.org/details/TomClancysRainbowSixRogueSpearMissionPackUrbanOperationsUSA) (Ctrl-F ZIP)
-* [Black Thorn](https://archive.org/details/TomClancysRainbowSixRogueSpearBlackThornUSA) (Ctrl-F ZIP)
-* [Covert Ops Essentials](https://archive.org/details/Tom_Clancys_Rainbow_Six_Covert_Ops_Red_Storm_2000) (Ctrl-F TORRENT)
+* [Rogue Spear](https://archive.org/details/Tom_Clancys_Rainbow_Six_Rogue_Spear_Version_2.05_Red_Storm_Entertainment_1999)
+* [Urban Operations](https://archive.org/details/TomClancysRainbowSixRogueSpearMissionPackUrbanOperationsUSA)
+* [Black Thorn](https://archive.org/details/TomClancysRainbowSixRogueSpearBlackThornUSA)
+* [Covert Ops Essentials](https://archive.org/details/Tom_Clancys_Rainbow_Six_Covert_Ops_Red_Storm_2000)
   * Note: This is the missions disc. If you're looking for the training disc developed by Magic Lantern Playware, see [here](https://archive.org/details/Rainbow_Six_Covert_Ops_Essentials).
 
 ## Installing Rogue Spear on Windows 10 or later
